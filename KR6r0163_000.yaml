@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0163/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 見聞錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1641.xml
+    old_id: X88n1641
+hash: sha256:47c61dcf19351a70a529a960f584347f24fef9ac8fc43253572f3bf145ecc41b

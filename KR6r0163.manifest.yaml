@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6r0163/v1
+canonical_location: https://kanripo.org/bkk/KR6r0163/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 見聞錄
+  identifiers:
+    alt_id:
+    - X88n1641
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1641.xml
+    old_id: X88n1641
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0163_000.yaml, hash: 'sha256:47c61dcf19351a70a529a960f584347f24fef9ac8fc43253572f3bf145ecc41b'}
+  - {seq: 1, filename: KR6r0163_001.yaml, hash: 'sha256:f4ce61ebdff3a68a0f83fa000b0ead478122e02cb6fe7c5b09dea294b00c3a55'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0163_001.markers.yaml, hash: 'sha256:23c4437db5b93545927737d6c0e9abf81369144ee57e5e36fd3e0effebe09223'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0163_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7250
+  label: 見聞錄
+  type: juan
+  level: 1
+hash: sha256:d01469d6b6fdb3ad9bd5f0bb19fe18ee849ce9ca53a31cd73c3738f1030609b8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
